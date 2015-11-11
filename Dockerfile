@@ -1,4 +1,4 @@
-FROM ohmygoshjosh/ctr-base:3.2
+FROM phxdevops/phxjug-ctr-base:3.2
 
 # CONFIGURE JAVA
 # Inspired by https://registry.hub.docker.com/u/jeanblanchard/java/ and
